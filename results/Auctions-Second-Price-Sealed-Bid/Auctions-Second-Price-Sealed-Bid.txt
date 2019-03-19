@@ -1,0 +1,101 @@
+Auctioneer: is ready.
+
+Bidder-1: Ready with initial '13,073' budget.
+Bidder-2: Ready with initial '11,355' budget.
+Bidder-3: Ready with initial '17,020' budget.
+
+Auctioneer : Found the following 'Bidder-2, Bidder-1, Bidder-3' bidders.
+Auctioneer : Starting new auction for 'Item-1' item.
+Auctioneer : Sending CFP to all bidders.
+
+Bidder-1 : New auction for 'Item-1' item with '10' price.
+Bidder-2 : New auction for 'Item-1' item with '10' price.
+Bidder-3 : New auction for 'Item-1' item with '10' price.
+
+Bidder-1 : is not joining this auction (no gain).
+Bidder-2 : Sent proposal with '30' price.
+Bidder-3 : Sent proposal with '50' price.
+
+Bidder-2 : The proposal is received.
+Bidder-3 : The proposal is received.
+
+Auctioneer : 'Item-1' sold to 'Bidder-3' bidder.
+Bidder-3 : You won 'Item-1' item for '30' price.
+
+Auctioneer : Found the following 'Bidder-2, Bidder-1, Bidder-3' bidders.
+Auctioneer : Starting new auction for 'Item-2' item.
+Auctioneer : Sending CFP to all bidders.
+
+Bidder-1 : New auction for 'Item-2' item with '60' price.
+Bidder-2 : New auction for 'Item-2' item with '60' price.
+Bidder-3 : New auction for 'Item-2' item with '60' price.
+
+Bidder-1 : is not joining this auction (no gain).
+Bidder-2 : is not joining this auction (no gain).
+Bidder-3 : is not joining this auction (no gain).
+
+Auctioneer : No winner for the item.
+
+Auctioneer : Found the following 'Bidder-2, Bidder-1, Bidder-3' bidders.
+Auctioneer : Starting new auction for 'Item-3' item.
+Auctioneer : Sending CFP to all bidders.
+
+Bidder-1 : New auction for 'Item-3' item with '120' price.
+Bidder-2 : New auction for 'Item-3' item with '120' price.
+Bidder-3 : New auction for 'Item-3' item with '120' price.
+
+Bidder-1 : Sent proposal with '140' price.
+Bidder-2 : Sent proposal with '160' price.
+Bidder-3 : Sent proposal with '180' price.
+
+Bidder-1 : The proposal is received.
+Bidder-2 : The proposal is received.
+Bidder-3 : The proposal is received.
+
+Auctioneer : 'Item-3' sold to 'Bidder-3' bidder.
+Bidder-3 : You won 'Item-3' item for '160' price.
+
+Auctioneer : Found the following 'Bidder-2, Bidder-1, Bidder-3' bidders.
+Auctioneer : Starting new auction for 'Item-4' item.
+Auctioneer : Sending CFP to all bidders.
+
+Bidder-1 : New auction for 'Item-4' item with '240' price.
+Bidder-2 : New auction for 'Item-4' item with '240' price.
+Bidder-3 : New auction for 'Item-4' item with '240' price.
+
+Bidder-1 : is not joining this auction (no gain).
+Bidder-2 : is not joining this auction (no gain).
+Bidder-3 : Sent proposal with '260' price.
+
+Bidder-3 : The proposal is received.
+
+Auctioneer : 'Item-4' sold to 'Bidder-3' bidder.
+Bidder-3 : You won 'Item-4' item for '260' price.
+
+Auctioneer : Found the following 'Bidder-2, Bidder-1, Bidder-3' bidders.
+Auctioneer : Starting new auction for 'Item-2' item.
+Auctioneer : Sending CFP to all bidders.
+
+Bidder-1 : New auction for 'Item-2' item with '60' price.
+Bidder-2 : New auction for 'Item-2' item with '60' price.
+Bidder-3 : New auction for 'Item-2' item with '60' price.
+
+Bidder-1 : is not joining this auction (no gain).
+Bidder-2 : is not joining this auction (no gain).
+Bidder-3 : is not joining this auction (no gain).
+
+Auctioneer : No winner for the item.
+
+Auctioneer : Found the following 'Bidder-2, Bidder-1, Bidder-3' bidders.
+Auctioneer : Starting new auction for 'Item-2' item.
+Auctioneer : Sending CFP to all bidders.
+
+Bidder-1 : New auction for 'Item-2' item with '60' price.
+Bidder-2 : New auction for 'Item-2' item with '60' price.
+Bidder-3 : New auction for 'Item-2' item with '60' price.
+
+Bidder-1 : is not joining this auction (no gain).
+Bidder-2 : is not joining this auction (no gain).
+Bidder-3 : is not joining this auction (no gain).
+
+Auctioneer : No winner for the item.

@@ -1,0 +1,1 @@
+java jade.Boot -gui -container-name main-container -name local-machine
